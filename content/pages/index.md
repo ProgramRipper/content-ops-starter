@@ -171,7 +171,7 @@ sections:
   - subtitle: Award winning enterprises trust us
     images:
       - type: ImageBlock
-        url: /images/hero2.svg
+        url: /images/empathy-logo.svg
         altText: Image alt text placeholder
         elementId: ''
         styles:
